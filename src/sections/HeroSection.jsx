@@ -96,6 +96,7 @@ const HeroSection = () => {
               style={{
                 color: "#fff",
                 textShadow: "4px 9px 10px black",
+                ...(isMobile && { margin: "40px 0" })
               }}
             >
               Freaking Delicious
@@ -115,7 +116,11 @@ const HeroSection = () => {
                 borderBottom: "2px solid black",
               }}
             >
-              <h1 style={{ color: "black", textShadow: "none" }}>
+              <h1 style={{
+                color: "black",
+                textShadow: "none",
+                ...(isMobile && { lineHeight: "1.0" })
+              }}>
                 UNSTOPPABLE CRUNCH{" "}
               </h1>
             </div>
