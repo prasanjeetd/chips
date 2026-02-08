@@ -12,7 +12,7 @@ const FooterSection = () => {
       <div className="2xl:h-[110dvh] relative md:pt-[20vh] pt-[10vh]">
         <div className="overflow-hidden z-10">
           <h1 className="general-title text-center text-milk py-5">
-            #CHUGRESPONSIBLY
+            #CRUNCHRESPONSIBLY
           </h1>
         </div>
 
@@ -41,17 +41,17 @@ const FooterSection = () => {
         <div className="mt-40 md:px-10 px-5 flex gap-10 md:flex-row flex-col justify-between text-milk font-paragraph md:text-lg font-medium">
           <div className="flex items-center md:gap-16 gap-5">
             <div>
-              <p>SPYLT Flavors</p>
+              <p>Our Flavors</p>
             </div>
             <div>
-              <p>Chug Club</p>
-              <p>Student Marketing</p>
-              <p>Dairy Dealers</p>
+              <p>Crunch Club</p>
+              <p>Find a Store</p>
+              <p>Wholesale</p>
             </div>
             <div>
-              <p>Company</p>
-              <p>Contacts</p>
-              <p>Tasty Talk</p>
+              <p>About Us</p>
+              <p>Contact</p>
+              <p>FAQ</p>
             </div>
           </div>
 
@@ -76,7 +76,7 @@ const FooterSection = () => {
 
         <div className="copyright-box">
           {/* The final row with copyright and legal links. */}
-          <p>Copyright © 2025 Spylt - All Rights Reserved</p>
+          <p>Copyright © 2025 Potato Chips - All Rights Reserved</p>
           <div className="flex items-center gap-7">
             <p>Privacy Policy</p>
             <p>Terms of Sеrvice</p>

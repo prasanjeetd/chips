@@ -47,34 +47,34 @@ const BenefitSection = () => {
       <div className="container mx-auto pt-20">
         <div className="col-center">
           <p>
-            Unlock the Advantages: <br />
-            Explore the Key Benefits of Choosing SPYLT
+            Discover Why People Love It: <br />
+            Explore the Key Benefits of Potato Chips
           </p>
 
           <div className="mt-20 col-center">
             <ClipPathTitle
-              title={"Shelf stable"}
+              title={"Bold Flavors"}
               color={"#faeade"}
               bg={"#c88e64"}
               className={"first-title"}
               borderColor={"#222123"}
             />
             <ClipPathTitle
-              title={"Protein + Caffeine"}
+              title={"Perfectly Crispy"}
               color={"#222123"}
               bg={"#faeade"}
               className={"second-title"}
               borderColor={"#222123"}
             />
             <ClipPathTitle
-              title={"Infinitely recyclable"}
+              title={"Premium Potatoes"}
               color={"#faeade"}
               bg={"#7F3B2D"}
               className={"third-title"}
               borderColor={"#222123"}
             />
             <ClipPathTitle
-              title={"Lactose free"}
+              title={"Gluten Free"}
               color={"#2E2D2F"}
               bg={"#FED775"}
               className={"fourth-title"}
