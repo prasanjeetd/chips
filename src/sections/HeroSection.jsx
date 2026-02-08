@@ -127,12 +127,12 @@ const HeroSection = () => {
           </div>
 
           <h2>
-            Experience the ultimate crunch with SPYLT Chips: Shatter your
+            Experience the ultimate crunch with Potato Chips: Shatter your
             cravings and fuel your focus with every perfectly seasoned bite.
           </h2>
 
           <div className="hero-button">
-            <p>Grab a Chips</p>
+            <p>Grab a Bag</p>
           </div>
         </div>
       </div>

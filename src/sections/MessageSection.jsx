@@ -92,9 +92,9 @@ const MessageSection = () => {
           <div className="flex-center md:mt-20 mt-10">
             <div className="max-w-md px-10 flex-center overflow-hidden">
               <p>
-                Rev up your rebel spirit and feed the adventure of life with
-                SPYLT, where you’re one chug away from epic nostalgia and
-                fearless fun.
+                Unleash your taste for adventure and savor the bold crunch of
+                Potato Chips, where every chip delivers epic flavor and
+                irresistible satisfaction.
               </p>
             </div>
           </div>
@@ -105,3 +105,4 @@ const MessageSection = () => {
 };
 
 export default MessageSection;
+
